@@ -1,0 +1,176 @@
+header {
+    color:lightsteelblue;
+    text-align: center;
+    font: bold 2.5em/2em Georgia, 'Times New Roman', Times, serif;
+}
+
+
+img
+{
+ vertical-align: bottom;
+}
+
+
+ul
+{
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+
+h3 {
+    Color: red;
+    font: bold 2em ;
+}
+
+
+h2 {
+    color: gold;
+}
+
+
+h1
+{
+    background-color: darkblue;
+}
+
+
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+
+#importantThingtoKnow {
+    color: orangered;
+    font-weight: bold;
+}
+
+
+nav
+{
+    background-color: red;
+    line-height: 200%;
+    display: block;
+    text-align: center;
+}
+
+
+nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+
+nav a:link
+{
+    color:white;
+    text-decoration: none;
+}
+
+
+nav a:visited
+{
+    color:white;
+}
+
+
+nav a:hover
+{
+    text-decoration: underline;
+}
+
+
+nav a:active
+{
+    color: red;
+    text-decoration: underline;
+}
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+body
+{
+    background-color: black;
+}
+
+
+#container
+{
+    width: 960px;
+    margin: 0 auto;
+    background-color: cyan;
+}
+
+
+header
+{
+    height: 150px;
+    width: 910px;
+    padding: 25px;
+    background-color: blue;
+    margin-bottom: 10px;
+}
+
+
+nav
+{
+    width: 940px;
+    background-color: purple;
+    padding: 10px;
+    margin-bottom: 1px;
+}
+
+
+nav li
+{
+    display: inline;
+    list-style-type: none;
+    padding-right: 40px;
+}
+
+
+aside
+{
+    width: 200px;
+    height: 600px;
+    margin: 0px 10px 10px 0;
+    padding: 10px;
+    background-color: darkslategray;
+    float: left;
+    text-align: center;
+}
+
+
+section
+{
+    width: 710px;
+    height: 200px;
+    margin: 0 0 10px 0;
+    padding: 10px;
+    background-color: navy;
+    float: right;
+}
+
+
+footer
+{
+    background-color: darkviolet;
+    padding: 10px;
+    clear: both;
+}
